@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\oemyner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\oemyner\Desktop\Clander2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_6424bad7978a3a8a50d1f7800ab47d7e2e498f2e.jar" />
+    </item>
+
+</items>

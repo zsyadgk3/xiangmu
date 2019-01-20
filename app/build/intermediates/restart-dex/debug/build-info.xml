@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="587484603275088"
+    token="1716861682856430720"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="957" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="491" />
+    <task
+        name="verifier"
+        duration="50" />
+
+    <artifact
+        location="C:\Users\oemyner\Desktop\Clander2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="587484603275088"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\oemyner\Desktop\Clander2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
